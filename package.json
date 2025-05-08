@@ -1,0 +1,16 @@
+{
+  "name": "sari-books-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vuetify": "^3.5.0",
+    "vite": "^5.0.0",
+    "@supabase/supabase-js": "^2.0.0",
+    "vue-router": "^4.0.0"
+  }
+}
